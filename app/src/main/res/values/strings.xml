@@ -1,3 +1,4 @@
+<!--
 <resources>
     <string name="app_name">LNTapp</string>
     <string name="enter_name">Enter your name</string>
@@ -5,5 +6,15 @@
     <string name="remember_password">Remember Password</string>
     <string name="login">Login</string>
     <string name="cancel">Cancel</string>
+    <string name="button_text">button_text</string>
 
+</resources>-->
+
+<resources>
+    <string name="app_name">LntAppb</string>
+    <string name="instructions">Enter a book name, or part of a
+book name, or just some text from a book to find
+the full book title and who wrote the book!</string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Enter a Book Title</string>
 </resources>

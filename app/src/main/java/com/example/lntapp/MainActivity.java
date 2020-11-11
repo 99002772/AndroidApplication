@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
        // welcomeTextView = findViewById(R.id.textViewWelcome);
         //welcomeTextView.setText(input);
         Log.e(TAG,"clickHandler");
-        switch (view.getId()){
+       /* switch (view.getId()){
             case R.id.buttonlogin:
                 startHome();
                 break;
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(dialIntent);
                 break;
 
-        }
+        }*/
         //startHome();
 
 
